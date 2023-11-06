@@ -4,6 +4,7 @@ from fastapi import FastAPI
 
 from models import Game, User, Role
 
+test = test()
 
 app = FastAPI()
 
